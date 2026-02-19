@@ -118,4 +118,7 @@ For privacy, terms, or general inquiries:
 - **Email:** [fliqiaapp@gmail.com](mailto:fliqiaapp@gmail.com)
 - **GitHub:** [github.com/kenionatan/fliqia-docs](https://github.com/kenionatan/fliqia-docs)
 
+## Account Center {#account-center}
+
+- **Delete Account:**
 If you wish to delete your account, email fliqiaapp@gmail.com using your registered email address. Use the subject line "DELETE ACCOUNT". You will receive a confirmation email from our support team once your account has been processed and removed.
